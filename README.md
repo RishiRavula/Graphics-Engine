@@ -1,8 +1,5 @@
-# CS345
-Submission's for CS345 - Prof. Mike Reed
+# Graphics Engine
+Architected and developed a comprehensive C++ graphics engine, featuring advanced graphics capabilities including Rasterizing,
+Clipping, Linear Gradient Transform, Winding Fill, Curve & Circle Approximation, Colored & Textured Triangle Rendering, Quad Subdivision, Stroking, Coons Patch, Bilinear Filtering, and more. SIMD architecture implemented for performance optimizations.
 
-
-## PA1
-Completed functions clear and fillRect in the file `my_canvas.cpp`
-Drawing is a randomized grid of 2x2 rects with random colors on a white background. 
 Compile using ```make``` and then ```./image```
